@@ -1,2 +1,2 @@
 # iosapps
-A collection of mini apps used while studying iOS App Development
+A collection of apps used while studying iOS App Development
